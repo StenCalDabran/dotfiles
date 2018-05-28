@@ -1,6 +1,6 @@
 [user]
-	email = agross@therightstuff.de
-	name = Alexander Groß
+	email = simon.nilius@sap.com
+	name = Simon Nilius
 [core]
 	whitespace = trailing-space, space-before-tab, -indent-with-non-tab, cr-at-eol
 	quotepath = false
